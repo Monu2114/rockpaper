@@ -1,0 +1,17 @@
+html,body {
+    height: 100%; /* Make sure html and body take full height */
+    margin: 0; /* Remove default margin */
+}
+
+body{
+    display: flex; /* Use flexbox on body */
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+}
